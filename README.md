@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Kunal Saxena
 ## About<br><br>I’m a BCA student who learns by building.<br><br>I like exploring different areas of technology, turning ideas into small projects, and experimenting with AI and software. Most of the things you’ll find here are things I’ve built, tested, broken, fixed, or am still figuring out.<br><br>Currently exploring what I can build next.<br>
 
 
